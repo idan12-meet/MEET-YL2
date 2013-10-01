@@ -1,0 +1,20 @@
+1)
+	a)
+		to run the server:
+		python manage.py runserver 8001
+		http://127.0.0.1:8001/
+	b)
+		http://127.0.0.1:8001/movies/1/
+		
+
+	c)
+		add movie:
+			def add_movie(request):
+		movie num:
+			def movie(request, movie_id):
+		
+		movie name:
+			def movie_list(request):
+
+2)
+	
